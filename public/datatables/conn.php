@@ -4,6 +4,6 @@ global $sql_details;
 $sql_details = array(
     'user' => 'root',
     'pass' => 'admin',
-    'db'   => 'shuzi',
+    'db'   => 'baoshan',
     'host' => '127.0.0.1'
 );
