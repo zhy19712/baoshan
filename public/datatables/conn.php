@@ -5,5 +5,5 @@ $sql_details = array(
     'user' => 'root',
     'pass' => 'admin',
     'db'   => 'baoshan',
-    'host' => '127.0.0.1'
+    'host' => 'zzbhidi.f3322.net:10102'
 );
